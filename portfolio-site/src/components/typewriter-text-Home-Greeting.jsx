@@ -1,6 +1,6 @@
 import { TypewriterEffectSmooth } from "./ui/typewriter-effect";
 
-export function TypewriterEffectText() {
+export function TypewriterEffectTextGreeting() {
   const words = [
     {
       text: "Hi!!",
